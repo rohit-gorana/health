@@ -1,0 +1,29 @@
+body {
+  padding-top: 50px;
+}
+.content {
+  padding: 40px 15px;
+  visibility: 
+}
+
+.container {
+  max-width: 900px;
+}
+
+.loader, .welcome{
+  text-align: center;
+  padding-top:200px;
+}
+.loader img, .welcome img{
+	width: 200px;
+
+}
+
+
+#done-btn {
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin: 8px;
+	z-index: 1040;
+}

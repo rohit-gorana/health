@@ -1,3 +1,7 @@
+/*
+PHP-MySql Database Functions
+Author: Rohit Gorana
+*/
 <?php 
 	class Query 
 	{
